@@ -1,0 +1,2 @@
+# Fire-the-Prediction | Made by - CO21318 | Gurmehar Singh
+A website that predicts the probability of a forest fire taking place based on oxygen level (in ppm), temperature (in Celcius) and humidity content (in %).
